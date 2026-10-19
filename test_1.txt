@@ -1,3 +1,2 @@
 hello
-hello 2 from pr1
-hello 3 from pr2
+hello 1 from pr1
